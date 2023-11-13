@@ -1,0 +1,20 @@
+﻿StudentManagement_S
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\
+StudentManagement_S
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\App.xaml
+8613221252
+
+26-184660252
+2641256123746
+AddModuleWindow.xaml;AddStudentWindow.xaml;AddUserWindow.xaml;AdminWindow.xaml;EditUserWindow.xaml;LoginWindow.xaml;MainWindow.xaml;StudentWindow.xaml;
+
+False
+
